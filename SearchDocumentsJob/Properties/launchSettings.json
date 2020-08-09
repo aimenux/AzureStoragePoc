@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SearchDocumentsJob": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "DEV"
+      }
+    }
+  }
+}
