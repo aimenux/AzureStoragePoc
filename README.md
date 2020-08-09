@@ -1,3 +1,4 @@
+![.NET Core](https://github.com/aimenux/AzureStoragePoc/workflows/.NET%20Core/badge.svg)
 # AzureStoragePoc
 
 > Strategies :
